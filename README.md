@@ -39,15 +39,9 @@ Willkommen auf meinem GitHub! Hier findest du Projekte, die meine Leidenschaft f
 
 Hier findest du einige meiner Projekte:
 
-1. **Ahzos** – [Projekt-Link](#)
-2. **The Shattered Reality** – [Projekt-Link](#)
-
-Weitere Projekte folgen bald. Schau gerne mal vorbei!
-
-## 📄 **Lebenslauf**
-
-Du kannst meinen Lebenslauf hier herunterladen:  
-[Download Lebenslauf](https://raw.githubusercontent.com/DEINUSERNAME/DEINREPO/main/lebenslauf.pdf)
+1. **Ahzos** 
+2. **The Shattered Reality**
+3. **Astrabann**
 
 ## 📬 **Kontakt**
 
