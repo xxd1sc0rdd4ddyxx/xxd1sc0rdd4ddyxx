@@ -1,4 +1,4 @@
-# Shania's GitHub-Portfolio
+# Shania Priscilla Kim Sulit
 
 Willkommen auf meinem GitHub! Hier findest du Projekte, die meine Leidenschaft für **Game Development**, **Design** und **Multimedia** widerspiegeln.
 
