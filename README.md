@@ -27,15 +27,6 @@ Willkommen auf meinem GitHub! Hier findest du Projekte, die meine Leidenschaft f
 
 ---
 
-## 👩‍💻 **Über mich**
-
-- **Name:** Shania Priscilla Kim Sulit  
-- **Geburtsjahr:** 2004  
-- **Beruf:** Studentin der Game Dev & Multimedia an der SRH Heidelberg  
-- **Interessen:** Code, Design, Musik (Gitarre & Piano), Gaming (The Legend of Zelda, Age of Empires, Celeste)  
-- **Hobbies:** Lesen, Malen, Digitale Kunst, Häkeln  
-
-
 ## 📬 **Kontakt**
 
 - **E-Mail:** [shaniapksulit@gmx.net](mailto:shaniapksulit@gmx.net)  
