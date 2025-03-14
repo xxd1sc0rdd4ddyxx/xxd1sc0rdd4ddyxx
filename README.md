@@ -35,13 +35,6 @@ Willkommen auf meinem GitHub! Hier findest du Projekte, die meine Leidenschaft f
 - **Interessen:** Code, Design, Musik (Gitarre & Piano), Gaming (The Legend of Zelda, Age of Empires, Celeste)  
 - **Hobbies:** Lesen, Malen, Digitale Kunst, Häkeln  
 
-## 🎮 **Projekte**
-
-Hier findest du einige meiner Projekte:
-
-1. **Ahzos** 
-2. **The Shattered Reality**
-3. **Astrabann**
 
 ## 📬 **Kontakt**
 
