@@ -1,7 +1,5 @@
 # Shania Priscilla Kim Sulit
 
-Willkommen auf meinem GitHub! Hier findest du Projekte, die meine Leidenschaft für **Game Development**, **Design** und **Multimedia** widerspiegeln.
-
 ## 🛠️ **Technologien & Tools**
 
 **Game Engines:**  
