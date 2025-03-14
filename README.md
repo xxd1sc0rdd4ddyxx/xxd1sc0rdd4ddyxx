@@ -51,9 +51,8 @@ Du kannst meinen Lebenslauf hier herunterladen:
 
 ## 📬 **Kontakt**
 
-- **E-Mail:** [shania@example.com](mailto:shania@example.com)  
-- **LinkedIn:** [Shania's LinkedIn](https://www.linkedin.com/in/shania)  
-- **GitHub:** [Shania's GitHub](https://github.com/DEINUSERNAME)  
+- **E-Mail:** [shaniapksulit@gmx.net](mailto:shaniapksulit@gmx.net)  
+- **Linktr.ee:** [Shania's Linktr.ee](https://linktr.ee/shaniaskaka)  
 
 ---
 
