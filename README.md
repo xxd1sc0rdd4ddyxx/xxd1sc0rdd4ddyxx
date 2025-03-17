@@ -25,11 +25,4 @@
 
 ---
 
-## 📬 **Kontakt**
-
-- **E-Mail:** [shaniapksulit@gmx.net](mailto:shaniapksulit@gmx.net)  
-- **Linktr.ee:** [Shania's Linktr.ee](https://linktr.ee/shaniaskaka)  
-
----
-
 © 2025 Shania Priscilla Kim Sulit. Alle Rechte vorbehalten.
