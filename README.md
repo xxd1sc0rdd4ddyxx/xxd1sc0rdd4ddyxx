@@ -6,8 +6,6 @@
 
 ---
 
-## Tech Stack  
-
 ### Game Engines  
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity&logoColor=white)  
 ![Godot](https://img.shields.io/badge/Engine-Godot-blue?logo=godot-engine&logoColor=white)  
