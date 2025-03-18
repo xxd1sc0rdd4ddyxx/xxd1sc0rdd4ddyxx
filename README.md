@@ -1,7 +1,8 @@
 # Shania Priscilla Kim Sulit  
 
-*Kreatives Chaos mit System. Code. Design.*  
-**Game Developer & Writer| 3D Artist | Programmer**  
+Kreatives Chaos mit System. Code. Design.  
+
+**Game Developer & Writer | 3D Artist | Programmer**  
 
 ---
 
