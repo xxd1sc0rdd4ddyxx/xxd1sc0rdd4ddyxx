@@ -1,27 +1,26 @@
-# Shania Priscilla Kim Sulit  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Kreatives+Chaos+mit+System." />
+</p>
 
-Kreatives Chaos mit System. Code. Design.  
+
+# Shania Priscilla Kim Sulit  
 
 **Game Developer & Writer | 3D Artist | Programmer**  
 
----
 
-### Tech Stack  
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## Most Used  
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,python,js,php,mysql,figma&theme=dark" />
+</p>
 
-### GitHub Activity  
+## GitHub Activity  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=dark" width="48%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithub&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
