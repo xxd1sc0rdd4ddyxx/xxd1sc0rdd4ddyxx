@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpnMWZobnM5bjNtMGRzMG9tODg1dXF6NXVyMXBhMTlxbW5rb2Q1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xgBVs4YDslyVNEIl9p/giphy.gif" height="100px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJsY3Rka3lsNm9tbHNnOHhuZmtsdmJvZnk3bnU4N3dleWZqdDk0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf7d41FiSGBJIgLwnd/giphy.gif" height="100px"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=─────────────────────:3─────────────────────">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=─────────────────────o-o─────────────────────">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=─────────────────────:3─────────────────────">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=─────────────────────o-o─────────────────────">
 </p>
 
 <p align="center">© 2025 SPKS</p>
